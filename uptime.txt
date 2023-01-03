@@ -1,0 +1,7 @@
+ 08:45:01 up 32 min,  1 user,  load average: 0.00, 0.00, 0.00
+ 08:46:01 up 33 min,  1 user,  load average: 0.00, 0.00, 0.00
+ 08:47:01 up 34 min,  1 user,  load average: 0.00, 0.00, 0.00
+ 08:48:01 up 35 min,  1 user,  load average: 0.00, 0.00, 0.00
+ 08:49:01 up 36 min,  1 user,  load average: 0.00, 0.00, 0.00
+ 08:50:01 up 37 min,  1 user,  load average: 0.00, 0.00, 0.00
+ 08:51:01 up 38 min,  1 user,  load average: 0.00, 0.00, 0.00
