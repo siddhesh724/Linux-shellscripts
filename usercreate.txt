@@ -1,0 +1,9 @@
+sudo adduser sid
+sudo passwd sid --> add password
+sudo vi /etc/ssh/sshd_config --> SET --> PasswordAuthentication yes
+sudo systemctl restart sshd.service
+
+
+to asssign root permission 
+
+sudo visudo --> sid    ALL=(ALL)      NOPASSWD: ALL
